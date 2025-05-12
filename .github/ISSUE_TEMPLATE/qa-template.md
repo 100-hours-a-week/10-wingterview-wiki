@@ -1,3 +1,12 @@
+---
+name: QA-Template
+about: QA 템플릿
+title: ''
+labels: 버그-QA
+assignees: ''
+
+---
+
 ##  버그 설명
 
 버그에 대한 명확하고 간결한 설명해주세요.
