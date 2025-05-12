@@ -1,3 +1,12 @@
+---
+name: Trouble-Shooting-Issue-Template
+about: 트러블 슈팅 템플릿
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # Trouble Shooting Issue Template
 
 ## 1. 설명
