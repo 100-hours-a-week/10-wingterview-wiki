@@ -1,4 +1,11 @@
-# 데일리 스크럼 템플릿 v2
+---
+name: Daily-Scrum-Template
+about: 데일리 스크럼 템플릿 v2
+title: ''
+labels: Daily-Scrum
+assignees: ''
+
+---
 
 ## 0. 공지사항 및 오늘 일정
 > 여기에 공지사항 및 오늘의 일정을 자유롭게 작성하세요
