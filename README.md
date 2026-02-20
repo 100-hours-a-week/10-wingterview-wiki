@@ -71,11 +71,11 @@
 
   <h2>목차</h2>
     <div><a href="#프로젝트-소개">프로젝트 소개</a></div>
-    <div><a href="##주요-기능">주요 기능</a></div>
-    <div><a href="##릴리즈-노트">릴리즈 노트</a></div>
-    <div><a href="##기술-스택">기술 스택</a></div>
-    <div><a href="##개발-일정">개발 일정</a></div>
-    <div><a href="##아키텍처-구조">아키텍처 구조</a></div>
+    <div><a href="#주요-기능">주요 기능</a></div>
+    <div><a href="#릴리즈-노트">릴리즈 노트</a></div>
+    <div><a href="#기술-스택">기술 스택</a></div>
+    <div><a href="#개발-일정">개발 일정</a></div>
+    <div><a href="#아키텍처-구조">아키텍처 구조</a></div>
   
 </div>
 
@@ -122,14 +122,14 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 ✔️ 면접 내용을 기반으로 한 복습 퀴즈와 CS 지식을 병행 학습하고 싶은 사람
 
 ---
-## 주요 기능
+# 주요 기능
 <img width="1225" height="680" alt="스크린샷 2026-02-20 오후 1 11 21" src="https://github.com/user-attachments/assets/44179e22-f3b7-47d2-b5f5-55bbb89ad65e" />
 <img width="1208" height="668" alt="스크린샷 2026-02-20 오후 1 11 40" src="https://github.com/user-attachments/assets/d58e94d0-17a7-403a-b4fb-6af3f80aff09" />
 <img width="1202" height="658" alt="스크린샷 2026-02-20 오후 1 12 03" src="https://github.com/user-attachments/assets/caf563fc-4757-4682-8343-b9aaea41f705" />
 <img width="1205" height="663" alt="스크린샷 2026-02-20 오후 1 12 28" src="https://github.com/user-attachments/assets/156bbb0c-55b0-49fe-90ae-4b7f886ce0d4" />
 <img width="1208" height="654" alt="스크린샷 2026-02-20 오후 1 12 48" src="https://github.com/user-attachments/assets/babb0ffe-d7c4-4145-9f9f-821a1b98f786" />
 
-## 릴리즈 노트
+# 릴리즈 노트
 
 <details align="left">
   <summary><h3>1차 MVP 요약 (2025.05 작성)</h3></summary>
@@ -178,10 +178,10 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 
 ---
 
-## 기술 스택
+# 기술 스택
 <img width="729" height="353" alt="스크린샷 2026-02-20 오후 12 27 03" src="https://github.com/user-attachments/assets/ed7f4bec-766c-43a8-aa6a-d57f140cadc3" />
 
-### 기술스택 선택 이유 
+### 기술 스택 선택 이유 
 <details align="left">
   <summary><h3> FE </h3></summary>
 
@@ -210,7 +210,7 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
   
 </details>
 
-## 개발 일정
+# 개발 일정
 
 | 기간          | 주요 작업               |
 | ------------- | ----------------------- |
@@ -230,9 +230,9 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 
 <br>
 
-## 아키텍처 구조
+# 아키텍처 구조
 <img width="968" height="475" alt="스크린샷 2026-02-20 오후 12 29 11" src="https://github.com/user-attachments/assets/5bc24848-319c-4d5f-b1da-1bd19b77f02a" />
-
+<img width="853" height="481" alt="스크린샷 2026-02-20 오후 2 14 09" src="https://github.com/user-attachments/assets/32566285-88ab-4f28-aff9-044f57800e4b" />
 
 <br>
 
