@@ -79,13 +79,6 @@
   
 </div>
 
-
-<!-- TABLE OF CONTENTS -->
-<details align="left">
-  <summary>Table of Contents</summary>
-    
-</details>
-
 # 프로젝트 소개
 
 ### 윙터뷰 (Wingterview), 면접에 날개를 달자!🪽
