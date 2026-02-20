@@ -3,11 +3,14 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fcbe381a-189e-4d70-ac82-722e12acfd9c" alt="Logo" width="100" >
   <h1>Wingterview</h1>
+  <img width="520" height="156" alt="스크린샷 2026-02-20 오후 12 22 41" src="https://github.com/user-attachments/assets/0109b2af-6a1b-4456-a6c5-9cdc6ddcd0ea" />
   <p>
-    <a href="https://wingterview10.com">서비스 바로가기</a> <br>
-    <a> Wingterview는 평일 13:00 ~ 19:00까지 운영합니다!</a>
+    <a href="https://wingterview10.com">서비스 바로가기</a>
+    <a> Wingterview는 평일 13:00 ~ 19:00까지 운영했습니다! (2025.03 ~ 2025.07)</a>
   </p>
+  
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details align="left">
