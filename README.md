@@ -68,20 +68,22 @@
       </td>
     </tr>
   </table>
+
+  <h2>목차</h2>
+    <div><a href="#프로젝트-소개">프로젝트 소개</a></div>
+    <div><a href="##주요-기능">주요 기능</a></div>
+    <div><a href="##릴리즈-노트">릴리즈 노트</a></div>
+    <div><a href="##기술-스택">기술 스택</a></div>
+    <div><a href="##개발-일정">개발 일정</a></div>
+    <div><a href="##아키텍처-구조">아키텍처 구조</a></div>
+  
 </div>
 
 
 <!-- TABLE OF CONTENTS -->
 <details align="left">
   <summary>Table of Contents</summary>
-    <div><a href="#프로젝트-소개">프로젝트 소개</a></div>
-    <div><a href="#mvp-발전-과정">MVP 발전 과정</a></div>
-    <div><a href="#주요-기능">주요 기능</a></div>
-    <div><a href="#팀원-소개">팀원 소개</a></div>
-    <div><a href="#기술-스택">기술 스택</a></div>
-    <div><a href="#개발-일정">개발 일정</a></div>
-    <div><a href="#아키텍처-구조">아키텍처 구조</a></div>
-    <div><a href="#api-명세서">API 명세서</a></div>
+    
 </details>
 
 # 프로젝트 소개
@@ -120,7 +122,7 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 ✔️ 면접 내용을 기반으로 한 복습 퀴즈와 CS 지식을 병행 학습하고 싶은 사람
 
 ---
-## 프로젝트 기능 소개
+## 주요 기능
 <img width="1225" height="680" alt="스크린샷 2026-02-20 오후 1 11 21" src="https://github.com/user-attachments/assets/44179e22-f3b7-47d2-b5f5-55bbb89ad65e" />
 <img width="1208" height="668" alt="스크린샷 2026-02-20 오후 1 11 40" src="https://github.com/user-attachments/assets/d58e94d0-17a7-403a-b4fb-6af3f80aff09" />
 <img width="1202" height="658" alt="스크린샷 2026-02-20 오후 1 12 03" src="https://github.com/user-attachments/assets/caf563fc-4757-4682-8343-b9aaea41f705" />
