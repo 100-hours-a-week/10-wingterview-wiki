@@ -1,11 +1,10 @@
 # 10-team-matching_quiz-wiki
-10조 모의면접 매칭 및 퀴즈 서비스 Wiki
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fcbe381a-189e-4d70-ac82-722e12acfd9c" alt="Logo" width="100" >
   <h1>Wingterview</h1>
   <img width="520" height="156" alt="스크린샷 2026-02-20 오후 12 22 41" src="https://github.com/user-attachments/assets/0109b2af-6a1b-4456-a6c5-9cdc6ddcd0ea" />
   <p>
-    <a href="https://wingterview10.com">서비스 바로가기</a>
+    <a href="https://wingterview10.com">서비스 바로가기</a><br>
     <a> Wingterview는 평일 13:00 ~ 19:00까지 운영했습니다! (2025.03 ~ 2025.07)</a>
   </p>
   
@@ -29,11 +28,12 @@
 
 ### 프로젝트 이름
 
-윙터뷰 (Wingterview), 면접에 날개를 달자! 🪽
+윙터뷰 (Wingterview), 면접에 날개를 달자!🪽
 
 ### 프로젝트 기간
 
-2025.03.31 ~ 2025.08.01
+> ####2025.03.31 ~ 2025.08.01
+
 
 ### 프로젝트 설명
 
@@ -45,15 +45,15 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 
 > 윙터뷰는 초창기 **1차 MVP** 단계에서 카카오테크 부트캠프 수강생을 위한  
 > **실시간 1:1 매칭 기반 모의면접 서비스**로 시작되었습니다.  
-> 그러나 전체 교육생 및 일반 취업 준비생을 대상으로 서비스 범위를 확장하며,  
-> **시간 제약 없이 누구나 반복 학습 가능한 AI 기반 면접 시스템**이 더 효과적이라는 판단에 따라  
+> 그러나 운영기간 중 전체 교육생 및 일반 취업 준비생을 대상으로 서비스 범위를 확장하여,  
+> **시간 제약 없이 누구나 반복 학습 가능한 AI 기반 면접 시스템**인  
 > 현재의 **2차 MVP**에서는 **AI와 함께하는 나홀로 면접 방식으로 전환**하게 되었습니다.
 
 ---
 
 > ### 윙터뷰🪽는 이런 사람들에게 필요해요!
->
-> ✔️ 면접관 없이 혼자서 실전처럼 기술 면접을 연습하고 싶은 사람  
+> <img width="888" height="450" alt="스크린샷 2026-02-20 오후 12 36 23" src="https://github.com/user-attachments/assets/31de1e9c-1bb9-48dd-b8f0-aaa32976ad50" />
+> ✔️ 면접관 없이 혼자서 실전처럼 *기술 면접*을 연습하고 싶은 사람  
 > ✔️ 답변에 대한 **즉각적인 피드백과 모범답안** 이 필요한 사람  
 > ✔️ 반복적인 면접 훈련을 통해 실력을 꾸준히 쌓고 싶은 사람  
 > ✔️ 다른 사람들의 답변을 보고 함께 학습하고 싶은 사람  
@@ -172,6 +172,7 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 <br>
 
 ## 🛠 기술 스택
+<img width="729" height="353" alt="스크린샷 2026-02-20 오후 12 27 03" src="https://github.com/user-attachments/assets/ed7f4bec-766c-43a8-aa6a-d57f140cadc3" />
 
 ### 프론트엔드 
 
@@ -219,8 +220,8 @@ LLM 평가 및 모니터링 | `LangSmith`(0.3.33) + `Langfuse`(2.60.3) | - LangC
 <br>
 
 ## 🧩 아키텍처 구조
+<img width="968" height="475" alt="스크린샷 2026-02-20 오후 12 29 11" src="https://github.com/user-attachments/assets/5bc24848-319c-4d5f-b1da-1bd19b77f02a" />
 
-> (아키텍처 이미지 혹은 도식 첨부 예정)
 
 <br>
 
