@@ -1,13 +1,73 @@
-# 10-team-matching_quiz-wiki
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fcbe381a-189e-4d70-ac82-722e12acfd9c" alt="Logo" width="100" >
   <h1>Wingterview</h1>
-  <img width="520" height="156" alt="스크린샷 2026-02-20 오후 12 22 41" src="https://github.com/user-attachments/assets/0109b2af-6a1b-4456-a6c5-9cdc6ddcd0ea" />
+  <img width="1005" height="305" alt="스크린샷 2026-02-20 오후 1 00 13" src="https://github.com/user-attachments/assets/0cbbebf2-217c-4f07-a29b-0a098de30c25" />
   <p>
     <a href="https://wingterview10.com">서비스 바로가기</a><br>
     <a> Wingterview는 평일 13:00 ~ 19:00까지 운영했습니다! (2025.03 ~ 2025.07)</a>
   </p>
   
+  <h2>팀원 소개</h2>
+
+  <table>
+  <thead>
+    <tr>
+      <th align="center">🩷팀장🩷 <br> AI</th>
+      <th align="center">AI</th>
+      <th align="center">AI</th>
+      <th align="center">FRONTEND</th>
+      <th align="center">BACKEND</th>
+      <th align="center">CLOUD</th>
+      <th align="center">CLOUD</th>
+    </tr>
+  </thead>
+    <tr>
+      <th align="center"><a href="https://github.com/sde00">eunice.song</a></th>
+      <th align="center"><a href="https://github.com/tykong08">tommy.kong</a></th>
+      <th align="center"><a href="https://github.com/chan-980730">david.lee</a></th>
+      <th align="center"><a href="https://github.com/devjoylee">joy.lee</a></th>
+      <th align="center"><a href="https://github.com/imleokkkk">leo.kim</a></th>
+      <th align="center"><a href="https://github.com/year99">ken.kim</a></th>
+      <th align="center"><a href="https://github.com/kim-jihoo">jihoo.kim</a></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/sde00">
+          <img src="https://avatars.githubusercontent.com/sde00" width="100px;" heightalt="" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tykong08">
+          <img src="https://avatars.githubusercontent.com/tykong08" width="100px;" alt="" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/chan-980730">
+          <img src="https://avatars.githubusercontent.com/chan-980730" width="100px;" alt="" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/devjoylee">
+          <img src="https://avatars.githubusercontent.com/devjoylee" width="100px;" alt="" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/imleokkkk">
+          <img src="https://avatars.githubusercontent.com/imleokkkk" width="100px;" alt="" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/year99">
+          <img src="https://avatars.githubusercontent.com/year99" width="100px;" alt="" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/kim-jihoo">
+          <img src="https://avatars.githubusercontent.com/kim-jihoo" width="100px;" alt="" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -24,23 +84,22 @@
     <div><a href="#api-명세서">API 명세서</a></div>
 </details>
 
-# 📖 프로젝트 소개
+# 프로젝트 소개
 
-### 프로젝트 이름
-
-윙터뷰 (Wingterview), 면접에 날개를 달자!🪽
+### 윙터뷰 (Wingterview), 면접에 날개를 달자!🪽
 
 ### 프로젝트 기간
-
-> ####2025.03.31 ~ 2025.08.01
-
+> #### 2025.03.31 ~ 2025.08.01
 
 ### 프로젝트 설명
 
-윙터뷰는 개발자 취업을 준비하는 사람들을 위한 AI 면접 훈련 플랫폼입니다.
-사용자가 직무와 기술 스택을 입력하면, AI가 맞춤형 질문을 제시하고 사용자는 음성으로 답변합니다.
-이후 사용자가 간단한 키워드나 피드백을 입력하면,
-AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어집니다.
+윙터뷰는 개발자 취업을 준비하는 사람들을 위한 AI 면접 훈련 플랫폼입니다.<br>
+사용자의 **희망 직무와 기술 스택**을 기반으로 AI가 **맞춤형 질문**을 제시하고 사용자는 음성으로 답변합니다. <br><br>
+
+<img width="698" height="409" alt="스크린샷 2026-02-20 오후 1 07 37" src="https://github.com/user-attachments/assets/86557d13-3b7e-433f-8eab-51a4e22393f7" /><br>
+
+이후 사용자가 간단한 키워드나 피드백을 입력하면, <br>
+AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어집니다. <br>
 면접이 끝나면, AI는 피드백과 모범답안, **복습 퀴즈(CS 포함)** 를 제공해 반복 학습을 지원합니다.
 
 > 윙터뷰는 초창기 **1차 MVP** 단계에서 카카오테크 부트캠프 수강생을 위한  
@@ -51,19 +110,26 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 
 ---
 
-> ### 윙터뷰🪽는 이런 사람들에게 필요해요!
-> <img width="888" height="450" alt="스크린샷 2026-02-20 오후 12 36 23" src="https://github.com/user-attachments/assets/31de1e9c-1bb9-48dd-b8f0-aaa32976ad50" />
-> ✔️ 면접관 없이 혼자서 실전처럼 *기술 면접*을 연습하고 싶은 사람  
+### 윙터뷰🪽는 이런 사람들에게 필요해요!
+<img width="888" height="450" alt="스크린샷 2026-02-20 오후 12 36 23" src="https://github.com/user-attachments/assets/31de1e9c-1bb9-48dd-b8f0-aaa32976ad50" /> <br>
+
+> ✔️ 면접관 없이 혼자서 실전처럼 **기술 면접**을 연습하고 싶은 사람  
 > ✔️ 답변에 대한 **즉각적인 피드백과 모범답안** 이 필요한 사람  
 > ✔️ 반복적인 면접 훈련을 통해 실력을 꾸준히 쌓고 싶은 사람  
 > ✔️ 다른 사람들의 답변을 보고 함께 학습하고 싶은 사람  
 > ✔️ 면접 내용을 기반으로 한 복습 퀴즈와 CS 지식을 병행 학습하고 싶은 사람
 
 ---
+## 프로젝트 기능 소개
+<img width="1225" height="680" alt="스크린샷 2026-02-20 오후 1 11 21" src="https://github.com/user-attachments/assets/44179e22-f3b7-47d2-b5f5-55bbb89ad65e" />
+<img width="1208" height="668" alt="스크린샷 2026-02-20 오후 1 11 40" src="https://github.com/user-attachments/assets/d58e94d0-17a7-403a-b4fb-6af3f80aff09" />
+<img width="1202" height="658" alt="스크린샷 2026-02-20 오후 1 12 03" src="https://github.com/user-attachments/assets/caf563fc-4757-4682-8343-b9aaea41f705" />
+<img width="1205" height="663" alt="스크린샷 2026-02-20 오후 1 12 28" src="https://github.com/user-attachments/assets/156bbb0c-55b0-49fe-90ae-4b7f886ce0d4" />
+<img width="1208" height="654" alt="스크린샷 2026-02-20 오후 1 12 48" src="https://github.com/user-attachments/assets/babb0ffe-d7c4-4145-9f9f-821a1b98f786" />
 
-## 🚀 릴리즈 노트
+## 릴리즈 노트
 
-### ✅ 1차 MVP 요약 (2025.05 기준)
+### 1차 MVP 요약 (2025.05 기준)
 
 - **운영 시간**: 월, 화, 수 10:00 ~ 12:00  
 - **매일 9:50**에 **자동 1:1 실시간 매칭** 시작  
@@ -79,7 +145,7 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 
 ---
 
-### ✅ 2차 MVP 요약 (2025.06 기준)
+### 2차 MVP 요약 (2025.06 기준)
 
 - **운영 시간**: **월~금 13:00 ~ 20:00**  
 - **상시 면접 시작 가능** (자동 매칭 없음)  
@@ -107,71 +173,7 @@ AI가 이를 바탕으로 꼬리질문을 생성해 심화 면접처럼 이어�
 
 ---
 
-## 👥 팀원 소개
-
-<table>
-<thead>
-  <tr>
-    <th align="center">🩷팀장🩷 AI</th>
-    <th align="center">AI</th>
-    <th align="center">AI</th>
-    <th align="center">FRONTEND</th>
-    <th align="center">BACKEND</th>
-    <th align="center">CLOUD</th>
-    <th align="center">CLOUD</th>
-  </tr>
-</thead>
-  <tr>
-    <th align="center"><a href="https://github.com/sde00">eunice.song</a></th>
-    <th align="center"><a href="https://github.com/tykong08">tommy.kong</a></th>
-    <th align="center"><a href="https://github.com/chan-980730">david.lee</a></th>
-    <th align="center"><a href="https://github.com/devjoylee">joy.lee</a></th>
-    <th align="center"><a href="https://github.com/imleokkkk">leo.kim</a></th>
-    <th align="center"><a href="https://github.com/year99">ken.kim</a></th>
-    <th align="center"><a href="https://github.com/kim-jihoo">jihoo.kim</a></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sde00">
-        <img src="https://avatars.githubusercontent.com/sde00" width="100px;" heightalt="" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tykong08">
-        <img src="https://avatars.githubusercontent.com/tykong08" width="100px;" alt="" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/chan-980730">
-        <img src="https://avatars.githubusercontent.com/chan-980730" width="100px;" alt="" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/devjoylee">
-        <img src="https://avatars.githubusercontent.com/devjoylee" width="100px;" alt="" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/imleokkkk">
-        <img src="https://avatars.githubusercontent.com/imleokkkk" width="100px;" alt="" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/year99">
-        <img src="https://avatars.githubusercontent.com/year99" width="100px;" alt="" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kim-jihoo">
-        <img src="https://avatars.githubusercontent.com/kim-jihoo" width="100px;" alt="" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🛠 기술 스택
+## 기술 스택
 <img width="729" height="353" alt="스크린샷 2026-02-20 오후 12 27 03" src="https://github.com/user-attachments/assets/ed7f4bec-766c-43a8-aa6a-d57f140cadc3" />
 
 ### 프론트엔드 
@@ -199,7 +201,7 @@ LLM 평가 및 모니터링 | `LangSmith`(0.3.33) + `Langfuse`(2.60.3) | - LangC
 
 <br>
 
-## 🗓 개발 일정
+## 개발 일정
 
 | 기간          | 주요 작업               |
 | ------------- | ----------------------- |
@@ -219,7 +221,7 @@ LLM 평가 및 모니터링 | `LangSmith`(0.3.33) + `Langfuse`(2.60.3) | - LangC
 
 <br>
 
-## 🧩 아키텍처 구조
+## 아키텍처 구조
 <img width="968" height="475" alt="스크린샷 2026-02-20 오후 12 29 11" src="https://github.com/user-attachments/assets/5bc24848-319c-4d5f-b1da-1bd19b77f02a" />
 
 
